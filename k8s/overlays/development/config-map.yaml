@@ -3,8 +3,6 @@ data:
   images.json: |-
     [
       "https://i.imgflip.com/7jqevq.jpg",
-      "https://i.imgflip.com/7jqekl.jpg",
-      "https://i.imgflip.com/7jmwjs.jpg"
       "https://supergdrift.com/collections/bodies/products/eu-1973-porsche-carrera-rsr-body-1-10-hpi-101320#gallery-3"
     ]
 kind: ConfigMap
